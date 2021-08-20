@@ -14,8 +14,7 @@ s[i] is a printable ascii character.
 
 */
 
-
- class Solution {
+class Solution {
     public void reverseString(char[] s) {
         
         int i = 0;

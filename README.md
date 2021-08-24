@@ -3,3 +3,6 @@
 
 # LeetCode 
 
+**Easy**
+**Medium**
+**Hard**

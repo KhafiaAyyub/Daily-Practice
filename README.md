@@ -1,6 +1,4 @@
 # Daily-practice
 
 
-# LeetCode 
-
 

@@ -8,7 +8,8 @@ class Solution {
       }
     }
     for (int i = 0; i < nums.length; i++) {
-      if (i == index) continue;
+      if (i == index) 
+          continue;
       if (((long) nums[i] * 2) > max) {
         return -1;
       }
